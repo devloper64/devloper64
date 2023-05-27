@@ -16,8 +16,8 @@ My name is Mahfuj Alam and I'm a full stack mobile application developer.
 {
   "languages"  : ["Java", "Kotlin", "Dart", "Typescript", "Javascript",  "C", "C++", "Swift"],
   "mobile-app" : ["Android Native","iOS Native","Flutter"],
-  "backend"    : ["Spring Boot","NodeJS",Nestjs", "Express", "GraphQL"],
+  "backend"    : ["Spring Boot","NodeJS","Nestjs", "Express", "GraphQL"],
   "dbms"       : ["Postgres", "MySQL", "Sqlite", "MongoDB","Redis"],
-  "dbms-orm"   : ["JPA","Hibernate",Prisma", "Mongoose"]
+  "dbms-orm"   : ["JPA","Hibernate","Prisma", "Mongoose"]
 }
 ```
