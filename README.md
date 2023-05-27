@@ -2,9 +2,9 @@
 
 ### Md Mahfuj Alam
 
->[Portfolio](https://www.mahfuj.tech) <br/>
+>[![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=Visit My Portfolio&color=orange)](https://www.mahfuj.tech) <br/>
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-mahfuj-24967b146/)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/md-mahfuj-24967b146/)
 
 My name is Mahfuj Alam and I'm a full stack mobile application developer.
 
