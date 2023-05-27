@@ -2,7 +2,7 @@
 
 ### Md Mahfuj Alam
 
->[![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=Visit My Portfolio&color=orange)](https://www.mahfuj.tech) <br/>
+https://img.shields.io/static/v1?label=Portfolio&message=Visit My Portfolio&color=orange <br/>
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/md-mahfuj-24967b146/)
 
