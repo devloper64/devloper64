@@ -1,7 +1,6 @@
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=devloper64&show_icons=true"/>](https://github.com/devloper64)
 
 ### Md Mahfuj Alam
-[![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=Visit%20My%20Portfolio&color=orange)](https://www.mahfuj.live) <br/>
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/md-mahfuj-24967b146/)
 
